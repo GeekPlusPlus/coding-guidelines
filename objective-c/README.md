@@ -1,4 +1,4 @@
-# 编码规范
+# Cocoa编码规范
 
 ## 简介
 
@@ -6,7 +6,7 @@
 
 而本规范是基于Apple文档《Coding Guidelines for Cocoa》的一篇译文 [@CocoaChina](http://www.cocoachina.com/ios/20150908/13335.html) 补充、完善而成。
 
-!> 注意：本站内容仅限自己或团队内部规范编码，不可用于商业用途，转载请注明出处：[@xaoxuu](https://xaoxuu.com/docs/coding-guidelines-for-cocoa/) 。
+!> 注意：本站内容仅限自己或团队内部规范编码，不可用于商业用途。
 
 ## 参考
 
